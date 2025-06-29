@@ -29,15 +29,15 @@ I'm currently committed to completing the Python challenge led by **Dr. Angela Y
 
 ---
 
-## 📘 Progress Table (Topics + GitHub Repositories)
+## 📘 Progress Table (Topics + Key Notes)
 
 | Day | Topic                            | Key Notes |
 |-----|----------------------------------|-------------------|
 | 1   | Band Name Generator              | (https://github.com/your-username/day-1) |
-| 2   |                                  | (https://github.com/your-username/day-2) |
-| 3   |                                  | (https://github.com/your-username/day-3) |
-| 4   |                                  | [(https://github.com/your-username/day-4)|
-| 5   |                                  | (https://github.com/your-username/day-5) |
+| 2   |                                  |                                          |
+| 3   |                                  |                                          |
+| 4   |                                  |                                          |
+| 5   |                                  |                                          |
 | 6   |                                  |                                          |
 | 7   |                                  |                                          |
 | 8   |                                  |                                          |
