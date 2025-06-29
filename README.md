@@ -33,7 +33,7 @@ I'm currently committed to completing the Python challenge led by **Dr. Angela Y
 
 | Day | Topic                            | Key Notes |
 |-----|----------------------------------|-------------------|
-| 1   | Band Name Generator              | (https://github.com/your-username/day-1) |
+| 1   | Band Name Generator              |                                           |
 | 2   |                                  |                                          |
 | 3   |                                  |                                          |
 | 4   |                                  |                                          |
