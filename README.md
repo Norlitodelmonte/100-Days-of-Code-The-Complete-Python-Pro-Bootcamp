@@ -16,19 +16,6 @@ I'm currently committed to completing the Python challenge led by **Dr. Angela Y
 
 ---
 
-## 📌 Pinned Repositories
-
- **[100-Day-of-Code-The-Complete-Python-Pro-Bootcamp](https://github.com/your-username/100-Day-of-Code-The-Complete-Python-Pro-Bootcamp)**  
-   Daily Python challenges and projects from Day 1 to Day 100.
-
- **Instructor: [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/)**  
-   World-class instructor guiding the bootcamp.
-
- **Hi! I'm Norlito**  
-   I am committed to completing the 100 Days of Code Python Challenge and documenting my journey for everyone to see and learn from.
-
----
-
 ## 📘 Progress Table (Topics + Key Notes)
 
 | Day | Topic                            | Key Notes |
