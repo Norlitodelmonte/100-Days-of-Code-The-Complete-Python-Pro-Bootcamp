@@ -20,7 +20,7 @@ I'm currently committed to completing the Python challenge led by **Dr. Angela Y
 
 | Day | Topic                            | Key Notes |
 |-----|----------------------------------|-------------------|
-| 1   | Band Name Generator              |                                           |
+| 1   | Working with variablesin Pyhton to Manage Data|                                            |
 | 2   |                                  |                                          |
 | 3   |                                  |                                          |
 | 4   |                                  |                                          |
