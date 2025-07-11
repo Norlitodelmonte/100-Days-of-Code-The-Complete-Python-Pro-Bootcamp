@@ -23,8 +23,8 @@ I'm currently committed to completing the Python challenge led by **Dr. Angela Y
 | Day | Topic              | Key Notes                                      | GitHub Link  |
 |-----|--------------------|------------------------------------------------|--------------|
 | 1   |Working with Variables <br>in Python to Manage Data |- Variables in Python <br>- String manipulation <br>- Input and print Functions <br>- Variable naming Rules  | [Day 1]()    |
-| 2   | Understanding Data Types and <br>How to Manipulate Strings |- Data types<br>- Numbers <br>- Operations <br>- Type Conversion<br>- F-strings      | [Day 2]()    |
-| 3   |                    | - <br>- <br>-                                  | [Day 3]()    |
+| 2   |Understanding Data Types and <br>How to Manipulate Strings |- Data types<br>- Numbers <br>- Operations <br>- Type Conversion<br>- F-strings      | [Day 2]()    |
+| 3   |Control Flow and<br>Logical Operators | - <br>- <br>-                                  | [Day 3]()    |
 | 4   |                    | - <br>- <br>-                                  | [Day 4]()    |
 | 5   |                    | - <br>- <br>-                                  | [Day 5]()    |
 | 6   |                    | - <br>- <br>-                                  | [Day 6]()    |
