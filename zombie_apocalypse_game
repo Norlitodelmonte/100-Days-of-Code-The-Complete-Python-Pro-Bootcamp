@@ -1,0 +1,45 @@
+print("ARE YOU READY?")
+
+game = input('Welcome sa Zombie Apocalypse Game! \nType "START" if you are ready: ').lower()
+if game == "start":
+    print("Hanapin ang Tamang landas lets go!go!go!")
+    
+    # Unang pagsubok
+    choice1 = input('Maraming zombie sa paligid,'\
+         '\nsaan ka pupunta? Type "Right" or "Left": ').lower()
+    
+    if choice1 == "left":
+        # Pangalawang pagsubok
+        choice2 = input('Wow nakaligtas ka....May mga zombie pa rin na humahabol sayo.'\
+             '\nAno ang gagawin mo? Type "Fight" or "Run": ').lower()
+        
+        if choice2 == "run":
+            # Pangatlong pagsubok
+            choice3 = input('Tamang desisyon....Hinihingal ka na sa kakakatakbo.'\
+                 '\nAno ang sasakyan mo? Type "Bike", "Car" or "Truck": ').lower()
+            
+            if choice3 == "truck":
+                #last na pag subok!
+                choice4 = input('Tama ang nasakyan mo,galing mo ah pero di kapa panalo....'\
+                     '\nNgayon saan ka pupunta pumili ka? "Mall", "Forest" or "Church: "').lower()
+                if choice4 == "forest":
+                    print("CONGRATS LIGTAS KANANG KUPAL KA!")
+                elif choice4 == "mall":
+                    print("Marami ngang pag kain marami namang zombie. GAME OVER KA! HAHAHA")
+                elif choice4 == "church":
+                    print("ligtas kana sana pero magugutom ka naman. GAME OVER! HAHAHAH") 
+                else:
+                    print("Wala sa nabanggit!")    
+
+            elif choice3 == "bike":
+                print("Bike lang sasakyan mo? Eh ang bibilis ng zombie! GAME OVER KA!")
+            elif choice3 == "car":
+                print("Kotse sasakyan mo? Babasagin lang ng zombie yang salamin nyan! GAME OVER KA!")
+            else:
+                print("Mali ang tinype mo! GAME OVER KA!")
+        else:
+            print("Lalabanan mo? Eh napakarami non! GAME OVER KA!")
+    else:
+        print("Kain ka na agad ng zombie. GAME OVER KA!")
+else:
+    print("Mali ang tinype mo! Type 'START' lang dapat, ANO BAYAN!")
