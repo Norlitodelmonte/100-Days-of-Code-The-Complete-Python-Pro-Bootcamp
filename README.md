@@ -26,8 +26,8 @@ I'm currently committed to completing the Python challenge led by **Dr. Angela Y
 | 2   |Understanding Data Types and <br>How to Manipulate Strings |- Data types<br>- Numbers <br>- Operations <br>- Type Conversion<br>- F-strings | [Day 2]()    |
 | 3   |Control Flow and<br>Logical Operators | - if / else / elif <br>- Conditional Statements<br>- Logical Operators <br>- Code Blocks <br>- Scope  | [Day 3]()    |
 | 4   |Randomisation <br>and Python Lists  | - Randomisation <br>- Python Lists <br>- Error Handling <br>- functions   | [Day 4]()    |
-| 5   |Python Loops        | - For Lopps<br>- Range <br>- Code Blocks                      | [Day 5]()    |
-| 6   |                    | - <br>- <br>-                                  | [Day 6]()    |
+| 5   |Python Loops     | - For Lopps<br>- Range <br>- Code Blocks                      | [Day 5]()    |
+| 6   |Python Functions & Karel |   - While Loopss <br>- Functions <br>- Code Blocks       | [Day 6]()    |
 | 7   |                    | - <br>- <br>-                                  | [Day 7]()    |
 | 8   |                    | - <br>- <br>-                                  | [Day 8]()    |
 | 9   |                    | - <br>- <br>-                                  | [Day 9]()    |
